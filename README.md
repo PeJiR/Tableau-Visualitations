@@ -1,4 +1,4 @@
-# ✨Tableau Visualitations✨
+# Tableau Visualitations
 Visit my Tableau Public account to view all of my visualizations.
  
 
