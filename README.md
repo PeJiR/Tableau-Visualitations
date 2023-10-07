@@ -15,7 +15,7 @@ This Repository will hold all of the code and queries from the Portfolio Project
 
 Please feel free to take these and run with them. Make them your own and find you own insights
 
-### P.S.
+P.S.
 ------------
 
 Please drop me an note with any feedback you have.
