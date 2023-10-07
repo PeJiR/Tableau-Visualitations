@@ -1,6 +1,6 @@
 # Tableau Visualitations
 
-<a target="new" href="https://public.tableau.com/app/profile/roberto.perez2846/vizzes"><img border=0 src="https://img.shields.io/badge/Tableau-Public-blue%20
+<a target="new" href="https://public.tableau.com/app/profile/roberto.perez2846/vizzes"><img src="https://img.shields.io/badge/Tableau-Public-blue%20
 " alt="Tableau"></a>
 <a target="new" href="https://public.tableau.com/app/profile/roberto.perez2846/vizzes"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Froberto.perez2846%2Fvizzes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <a href="https://public.tableau.com/app/profile/roberto.perez2846/vizzes" target="_blank"><img src="https://img.shields.io/github/stars/pejir/Tableau-Visualitations .svg?style=social&label=Star&maxAge=60" alt="Star this repo" /></a>
